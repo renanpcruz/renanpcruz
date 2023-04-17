@@ -2,7 +2,7 @@ Hello, my name is **Renan Cruz**, I'm a brazillian passionate in technology and 
 
 Currently studying Information Systems in IFSP.
 
-You can also find me in [Twitter](https://twitter.com/renntxt), and my carrd: [Carrd](https://renanc.carrd.co/)
+My Carrd: [Here!](https://renanc.carrd.co/)
 
 <!---
 renanpcruz/renanpcruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
