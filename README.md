@@ -1,6 +1,6 @@
 Hello, my name is **Renan Cruz**, I'm a brazillian passionate in technology and games.
 
-Currently studying Information Systems in IFSP.
+Currently studying Information Systems at Instituto Federal de São Paulo.
 
 My Carrd: [Here!](https://renanc.carrd.co/)
 
